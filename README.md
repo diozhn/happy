@@ -1,4 +1,3 @@
-<img align="center" src:"https://repository-images.githubusercontent.com/303463633/40305f00-0cc3-11eb-9764-12e89d20f19f"/>
 <h1 align="center">Happy Web</h1>
 <p align="center">O happy é um projeto desenvolvido pela rocketseat para o bootcamp da next level week</p>
 <p align="center">#NeverStopLearning</p>
